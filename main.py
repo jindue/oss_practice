@@ -18,7 +18,5 @@ elif op == "-":
     print(A - B)
 elif op == "*":
     print(A * B)
-    print(A / B)
-    pass
 elif op == "/":
-    pass
+    print(A / B)
